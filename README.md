@@ -11,3 +11,4 @@ Hello 2026
 
 Hello Message
 Rebase denemesi
+Master branch değişikliği
